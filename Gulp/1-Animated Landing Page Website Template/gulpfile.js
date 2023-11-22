@@ -14,7 +14,7 @@ function watcherSASS() {
  * Minimiza SASS, CSS, JS Y HTML y los mueve a la carpeta DIST
  */
 function minimizarSASS() {
-   return src('src/sass/*.scss')
+   return src('src/sass/slides.scss')
       .pipe(cleanSASS())
       .pipe(dest('src/css/'));
 }
@@ -55,6 +55,7 @@ function concatenarJS() {
 
 exports.watcherSASS = watcherSASS;
 exports.minimizarGeneral = parallel(minimizarCSS, minimizarJS);
-exports.default = series(minimizarSASS, exports.minimizarGeneral, concatenarCSS, concatenarJS)
+exports.concatenarGeneral = parallel(concatenarCSS, concatenarJS);
+exports.default = series(minimizarSASS, exports.minimizarGeneral, exports.concatenarGeneral)
 
 
