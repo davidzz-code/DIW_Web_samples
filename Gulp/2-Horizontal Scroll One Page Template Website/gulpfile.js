@@ -1,9 +1,13 @@
-const { src, dest, parallel, series} = require('gulp');
+const { src, dest, parallel, series, watch} = require('gulp');
 const compileSASS = require('gulp-sass')(require('sass'));
 const cleanCSS = require('gulp-clean-css');
 const cleanJS = require('gulp-uglify');
 const concat = require('gulp-concat');
 
+
+function watchSASS() {
+   watch('src/scss/*.scss', compilarSASS);
+}
 
 function compilarSASS() {
    return src('src/scss/slides.scss')
@@ -35,6 +39,8 @@ function concatenarJS() {
       .pipe(dest('dist/js/'));
 }
 
+exports.compilarSASS = compilarSASS
+exports.watchSASS = watchSASS;
 exports.limpiarGeneral = parallel(limpiarCSS, limpiarJS);
 exports.concatenarGeneral = parallel(concatenarCSS, concatenarJS);
 
