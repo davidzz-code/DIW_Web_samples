@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="NONE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="2df98491-9794-4949-a43f-9ec252948e8f" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/ajax-email.php" beforeDir="false" afterPath="$PROJECT_DIR$/MyApp/www/ajax-email.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/appstore.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/MyApp/www/assets/img/appstore.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/background/img-09.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/MyApp/www/assets/img/background/img-09.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/background/img-14.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/MyApp/www/assets/img/background/img-14.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/background/img-15.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/MyApp/www/assets/img/background/img-15.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/background/img-85.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/MyApp/www/assets/img/background/img-85.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/background/img-89.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/MyApp/www/assets/img/background/img-89.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/background/img-95.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/MyApp/www/assets/img/background/img-95.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/googleplay.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/MyApp/www/assets/img/googleplay.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/image-100.png" beforeDir="false" afterPath="$PROJECT_DIR$/MyApp/www/assets/img/image-100.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/image-89-1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/MyApp/www/assets/img/image-89-1.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/image-89-2.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/MyApp/www/assets/img/image-89-2.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/svg/icons.svg" beforeDir="false" afterPath="$PROJECT_DIR$/MyApp/www/assets/svg/icons.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/svg/play.svg" beforeDir="false" afterPath="$PROJECT_DIR$/MyApp/www/assets/svg/play.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/svg/video-icon-dark.svg" beforeDir="false" afterPath="$PROJECT_DIR$/MyApp/www/assets/svg/video-icon-dark.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/svg/video-icon.svg" beforeDir="false" afterPath="$PROJECT_DIR$/MyApp/www/assets/svg/video-icon.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/slides.css" beforeDir="false" afterPath="$PROJECT_DIR$/MyApp/www/css/slides.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/slides.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/MyApp/www/css/slides.min.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/swiper.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/MyApp/www/css/swiper.min.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/MyApp/www/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/plugins.js" beforeDir="false" afterPath="$PROJECT_DIR$/MyApp/www/js/plugins.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/slides.js" beforeDir="false" afterPath="$PROJECT_DIR$/MyApp/www/js/slides.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/slides.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/MyApp/www/js/slides.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/soundcloud.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/MyApp/www/js/soundcloud.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/swiper.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/MyApp/www/js/swiper.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scss/colors.scss" beforeDir="false" afterPath="$PROJECT_DIR$/MyApp/www/scss/colors.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scss/dialog.scss" beforeDir="false" afterPath="$PROJECT_DIR$/MyApp/www/scss/dialog.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scss/flex.scss" beforeDir="false" afterPath="$PROJECT_DIR$/MyApp/www/scss/flex.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scss/framework.scss" beforeDir="false" afterPath="$PROJECT_DIR$/MyApp/www/scss/framework.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scss/grid.scss" beforeDir="false" afterPath="$PROJECT_DIR$/MyApp/www/scss/grid.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scss/layout.scss" beforeDir="false" afterPath="$PROJECT_DIR$/MyApp/www/scss/layout.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scss/mixins.scss" beforeDir="false" afterPath="$PROJECT_DIR$/MyApp/www/scss/mixins.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scss/plumber.scss" beforeDir="false" afterPath="$PROJECT_DIR$/MyApp/www/scss/plumber.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scss/reset.scss" beforeDir="false" afterPath="$PROJECT_DIR$/MyApp/www/scss/reset.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scss/slides.scss" beforeDir="false" afterPath="$PROJECT_DIR$/MyApp/www/scss/slides.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scss/typography.scss" beforeDir="false" afterPath="$PROJECT_DIR$/MyApp/www/scss/typography.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scss/useful-classes.scss" beforeDir="false" afterPath="$PROJECT_DIR$/MyApp/www/scss/useful-classes.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scss/variables.scss" beforeDir="false" afterPath="$PROJECT_DIR$/MyApp/www/scss/variables.scss" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2YWvgVYmwwmGayX8SivyofTWcsu" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.cidr.known.project.marker": "true",
+    "cidr.known.project.marker": "true",
+    "last_opened_file_path": "/Users/davidramirez/Documents/FP_DAW/DIW/DIW_Web_samples/Cordova/Animated Landing Page Website Template"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/MyApp/www" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2df98491-9794-4949-a43f-9ec252948e8f" name="Changes" comment="" />
+      <created>1700654261767</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1700654261767</updated>
+    </task>
+    <servers />
+  </component>
+</project>
