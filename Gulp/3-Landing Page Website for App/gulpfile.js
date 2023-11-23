@@ -1,11 +1,17 @@
-const { series, parallel, src, dest } = require('gulp');
+const { series, parallel, src, dest, watch } = require('gulp');
 const compileSASS = require('gulp-sass')(require('sass'));
 const cleanCSS = require('gulp-clean-css');
 const cleanJS = require('gulp-uglify');
 const concat = require('gulp-concat');
 
-/* Compilar SASS */
 
+/* Watcher para SASS */
+function watchSASS() {
+   watch('src/scss/*.scss', compilarSASS);
+}
+
+
+/* Compilar SASS */
 function compilarSASS() {
    return src('src/scss/slides.scss')
       .pipe(compileSASS())
@@ -14,7 +20,6 @@ function compilarSASS() {
 
 
 /* Minimiar CSS y JS */
-
 function limpiarCSS() {
    return src('src/css/*.css')
    .pipe(cleanCSS())
@@ -45,4 +50,5 @@ exports.limpiar = parallel(limpiarCSS, limpiarJS)
 exports.concatenar = parallel(concatenarJS, concatenarCSS)
 
 exports.default = series(compilarSASS, exports.limpiar, exports.concatenar);
+exports.watchSASS = watchSASS;
 
