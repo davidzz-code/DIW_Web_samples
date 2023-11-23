@@ -1278,7 +1278,7 @@ svg {
 // Generate fixed Classes
 // .fix-1-12 { max-width: 8.33333% !important; }
 @for $i from 1 through 12 {
-	$width: ($max-width / 12) * $i;
+	$width: calc($max-width / 12) * $i;
 
 	.fix-#{$i}-12 {
 		max-width: round($width) !important;
